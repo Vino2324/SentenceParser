@@ -1,0 +1,12 @@
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\obj\Debug\netcoreapp3.1\VS.Assessment.Process.AssemblyInfoInputs.cache
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\obj\Debug\netcoreapp3.1\VS.Assessment.Process.AssemblyInfo.cs
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\obj\Debug\netcoreapp3.1\VS.Assessment.Process.csproj.CoreCompileInputs.cache
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\bin\Debug\netcoreapp3.1\VS.Assessment.Process.exe
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\bin\Debug\netcoreapp3.1\VS.Assessment.Process.deps.json
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\bin\Debug\netcoreapp3.1\VS.Assessment.Process.runtimeconfig.json
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\bin\Debug\netcoreapp3.1\VS.Assessment.Process.runtimeconfig.dev.json
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\bin\Debug\netcoreapp3.1\VS.Assessment.Process.dll
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\bin\Debug\netcoreapp3.1\VS.Assessment.Process.pdb
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\obj\Debug\netcoreapp3.1\VS.Assessment.Process.dll
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\obj\Debug\netcoreapp3.1\VS.Assessment.Process.pdb
+C:\Users\vvelmurugan\source\repos\VS.Assessment.Process\VS.Assessment.Process\obj\Debug\netcoreapp3.1\VS.Assessment.Process.genruntimeconfig.cache
